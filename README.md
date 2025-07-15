@@ -110,7 +110,7 @@ Review the pages and interact with the slicers
 Modify and extend based on your learning goals
 
 📸 Dashboard Preview
-(Add image links or upload screenshots to a Screenshots/ folder and reference them here)
+
 
 👋 About Me
 I'm a Computer Science graduate currently learning Business Intelligence & Data Analytics. This project showcases my Power BI skills and is part of my journey to become a Business Analyst.
